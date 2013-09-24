@@ -51,6 +51,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
-## 0.0.2
+## 0.0.1 - alpha
 
-- initial release on app.wercker.com
+- initial release
