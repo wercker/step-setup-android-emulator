@@ -51,6 +51,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
-## 0.0.1 - alpha
+## 0.0.1
 
 - initial release
