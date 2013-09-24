@@ -9,7 +9,7 @@ properties:
   target:
     type: string
     required: true
-  name:
+  target_name:
     type: string
     default: wercker
   abi:

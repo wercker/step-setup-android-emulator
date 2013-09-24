@@ -13,7 +13,7 @@ This step is tested in conbination with the wercker/android box.
 
 * `target` (required) i.e. android-18. Note the target should already be
 installed in the SDK
-* `name` (optional, default `wercker`)
+* `target_name` (optional, default `wercker`)
 * 'abi' (optional, default `armeabi-v7a`). ABI or Application Binary Interface,
 possible values are `armeabi-v7a` and `x86`
 
