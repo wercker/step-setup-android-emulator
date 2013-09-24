@@ -1,0 +1,17 @@
+name: setup-android-emulator
+version: 0.0.1
+description: setup android emulator
+keywords:
+  - android
+  - emulator
+  - AVD
+properties:
+  target:
+    type: string
+    required: true
+  name:
+    type: string
+    default: wercker
+  abi:
+    type: string
+    default: armeabi-v7a
