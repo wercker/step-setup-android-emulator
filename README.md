@@ -53,6 +53,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.7
+
+- updated to work with android box version 0.0.17 and up
+
 ## 0.0.2
 
 - extra -n option added
