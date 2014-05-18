@@ -15,3 +15,5 @@ until [[ "$bootanim" =~ "stopped" ]]; do
    sleep 1
 done
 echo "Done"
+adb -e shell input keyevent 82
+echo "Unlocked emulator screen"
